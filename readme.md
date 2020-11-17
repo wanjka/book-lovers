@@ -4,7 +4,7 @@
 
 Featured technologies:
 * On backend: Python (including Flask, SQLAlchemy, WTForms), SQLite
-* On fronetnd: Bootstrap
+* On frontend: Bootstrap
 
 ## About
 
